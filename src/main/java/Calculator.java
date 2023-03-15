@@ -1,7 +1,15 @@
 import java.io.IOException;
 import java.util.Scanner;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class Calculator {
+
+    private static final Logger logger = LogManager.getLogger(Calculator.class);
+    public Calculator() {
+
+    }
     public static void main(String[] args) {
         Calculator calc = new Calculator();
         int q = Integer.MAX_VALUE;
@@ -64,19 +72,31 @@ public class Calculator {
     }
 
     public double add(double a, double b) {
-        return a + b;
+        logger.info("[ADD] - " + a + " AND " + b);
+        double result = a+b;
+        logger.info("[RESULT] - " + result);
+        return result;
     }
 
     public double subtract(double a, double b) {
-        return a - b;
+        logger.info("[SUBTRACT] - " + a + " AND " + b);
+        double result = a-b;
+        logger.info("[RESULT] - " + result);
+        return result;
     }
 
     public double multiply(double a, double b) {
-        return a * b;
+        logger.info("[MULTIPLY] - " + a + " AND " + b);
+        double result = a*b;
+        logger.info("[RESULT] - " + result);
+        return result;
     }
 
     public double divide(double a, double b) {
-        return a / b;
+        logger.info("[DIVIDE] - " + a + " AND " + b);
+        double result = a/b;
+        logger.info("[RESULT] - " + result);
+        return result;
     }
 
     public int factorial(int n) {
@@ -84,6 +104,9 @@ public class Calculator {
         for(int i = 1; i <= n; i++) {
             ans = ans*i;
         }
-        return ans;
+        logger.info("[FACTORIAL] - " + n );
+        int result = ans;
+        logger.info("[RESULT] - " + result);
+        return result;
     }
 }
