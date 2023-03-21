@@ -21,6 +21,9 @@ public class Calculator {
             System.out.println("Multiply: 3");
             System.out.println("Divide: 4");
             System.out.println("Factorial: 5");
+            System.out.println("Square Root: 6");
+            System.out.println("Power: 7");
+            System.out.println("Natural Logarithm: 8");
             System.out.println("Quit: 0");
             System.out.println("Enter an operation: ");
 
