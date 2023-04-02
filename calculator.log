@@ -158,3 +158,97 @@
 2023-03-22 01:01:35.408 [main] INFO  Calculator - [RESULT] - 56.0
 2023-03-22 01:01:35.408 [main] INFO  Calculator - [MULTIPLY] - 32.0 AND 4.0
 2023-03-22 01:01:35.409 [main] INFO  Calculator - [RESULT] - 128.0
+2023-04-02 12:23:02.098 [main] INFO  Calculator - [SQ ROOT] - 16.0
+2023-04-02 12:23:02.102 [main] INFO  Calculator - [RESULT] - 4.0
+2023-04-02 12:23:02.116 [main] INFO  Calculator - [ADD] - 34.0 AND 22.0
+2023-04-02 12:23:02.117 [main] INFO  Calculator - [RESULT] - 56.0
+2023-04-02 12:23:02.117 [main] INFO  Calculator - [ADD] - 58.0 AND 88.0
+2023-04-02 12:23:02.117 [main] INFO  Calculator - [RESULT] - 146.0
+2023-04-02 12:23:02.119 [main] INFO  Calculator - [FACTORIAL] - 4
+2023-04-02 12:23:02.119 [main] INFO  Calculator - [RESULT] - 24
+2023-04-02 12:23:02.119 [main] INFO  Calculator - [FACTORIAL] - 5
+2023-04-02 12:23:02.120 [main] INFO  Calculator - [RESULT] - 120
+2023-04-02 12:23:02.121 [main] INFO  Calculator - [NATURAL LOG] - 1.0
+2023-04-02 12:23:02.121 [main] INFO  Calculator - [RESULT] - 0.0
+2023-04-02 12:23:02.121 [main] INFO  Calculator - [NATURAL LOG] - 2.4
+2023-04-02 12:23:02.122 [main] INFO  Calculator - [RESULT] - 0.8754687373538999
+2023-04-02 12:23:02.123 [main] INFO  Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-04-02 12:23:02.123 [main] INFO  Calculator - [RESULT] - 8.0
+2023-04-02 12:23:02.123 [main] INFO  Calculator - [POWER - 1.0 RAISED TO] 3.0
+2023-04-02 12:23:02.124 [main] INFO  Calculator - [RESULT] - 1.0
+2023-04-02 12:23:02.124 [main] INFO  Calculator - [SUBTRACT] - 78.0 AND 22.0
+2023-04-02 12:23:02.125 [main] INFO  Calculator - [RESULT] - 56.0
+2023-04-02 12:23:02.125 [main] INFO  Calculator - [SUBTRACT] - 234.0 AND 88.0
+2023-04-02 12:23:02.125 [main] INFO  Calculator - [RESULT] - 146.0
+2023-04-02 12:23:02.126 [main] INFO  Calculator - [DIVIDE] - 34.0 AND 2.0
+2023-04-02 12:23:02.127 [main] INFO  Calculator - [RESULT] - 17.0
+2023-04-02 12:23:02.127 [main] INFO  Calculator - [DIVIDE] - 128.0 AND 8.0
+2023-04-02 12:23:02.127 [main] INFO  Calculator - [RESULT] - 16.0
+2023-04-02 12:23:02.128 [main] INFO  Calculator - [MULTIPLY] - 2.0 AND 28.0
+2023-04-02 12:23:02.129 [main] INFO  Calculator - [RESULT] - 56.0
+2023-04-02 12:23:02.129 [main] INFO  Calculator - [MULTIPLY] - 32.0 AND 4.0
+2023-04-02 12:23:02.129 [main] INFO  Calculator - [RESULT] - 128.0
+2023-04-02 12:24:00.119 [main] INFO  Calculator - [SQ ROOT] - 16.0
+2023-04-02 12:24:00.122 [main] INFO  Calculator - [RESULT] - 4.0
+2023-04-02 12:24:00.122 [main] INFO  Calculator - [SQ ROOT] - 1.0
+2023-04-02 12:24:00.123 [main] INFO  Calculator - [RESULT] - 1.0
+2023-04-02 12:24:00.131 [main] INFO  Calculator - [ADD] - 34.0 AND 22.0
+2023-04-02 12:24:00.132 [main] INFO  Calculator - [RESULT] - 56.0
+2023-04-02 12:24:00.132 [main] INFO  Calculator - [ADD] - 58.0 AND 88.0
+2023-04-02 12:24:00.133 [main] INFO  Calculator - [RESULT] - 146.0
+2023-04-02 12:24:00.133 [main] INFO  Calculator - [FACTORIAL] - 4
+2023-04-02 12:24:00.134 [main] INFO  Calculator - [RESULT] - 24
+2023-04-02 12:24:00.134 [main] INFO  Calculator - [FACTORIAL] - 5
+2023-04-02 12:24:00.134 [main] INFO  Calculator - [RESULT] - 120
+2023-04-02 12:24:00.135 [main] INFO  Calculator - [NATURAL LOG] - 1.0
+2023-04-02 12:24:00.136 [main] INFO  Calculator - [RESULT] - 0.0
+2023-04-02 12:24:00.136 [main] INFO  Calculator - [NATURAL LOG] - 2.4
+2023-04-02 12:24:00.136 [main] INFO  Calculator - [RESULT] - 0.8754687373538999
+2023-04-02 12:24:00.137 [main] INFO  Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-04-02 12:24:00.138 [main] INFO  Calculator - [RESULT] - 8.0
+2023-04-02 12:24:00.138 [main] INFO  Calculator - [POWER - 1.0 RAISED TO] 3.0
+2023-04-02 12:24:00.138 [main] INFO  Calculator - [RESULT] - 1.0
+2023-04-02 12:24:00.139 [main] INFO  Calculator - [SUBTRACT] - 78.0 AND 22.0
+2023-04-02 12:24:00.139 [main] INFO  Calculator - [RESULT] - 56.0
+2023-04-02 12:24:00.140 [main] INFO  Calculator - [SUBTRACT] - 234.0 AND 88.0
+2023-04-02 12:24:00.141 [main] INFO  Calculator - [RESULT] - 146.0
+2023-04-02 12:24:00.142 [main] INFO  Calculator - [DIVIDE] - 34.0 AND 2.0
+2023-04-02 12:24:00.143 [main] INFO  Calculator - [RESULT] - 17.0
+2023-04-02 12:24:00.144 [main] INFO  Calculator - [DIVIDE] - 128.0 AND 8.0
+2023-04-02 12:24:00.144 [main] INFO  Calculator - [RESULT] - 16.0
+2023-04-02 12:24:00.146 [main] INFO  Calculator - [MULTIPLY] - 2.0 AND 28.0
+2023-04-02 12:24:00.146 [main] INFO  Calculator - [RESULT] - 56.0
+2023-04-02 12:24:00.147 [main] INFO  Calculator - [MULTIPLY] - 32.0 AND 4.0
+2023-04-02 12:24:00.147 [main] INFO  Calculator - [RESULT] - 128.0
+2023-04-02 12:24:16.525 [main] INFO  Calculator - [SQ ROOT] - 16.0
+2023-04-02 12:24:16.528 [main] INFO  Calculator - [RESULT] - 4.0
+2023-04-02 12:24:16.528 [main] INFO  Calculator - [SQ ROOT] - 1.0
+2023-04-02 12:24:16.529 [main] INFO  Calculator - [RESULT] - 1.0
+2023-04-02 12:24:16.536 [main] INFO  Calculator - [ADD] - 34.0 AND 22.0
+2023-04-02 12:24:16.537 [main] INFO  Calculator - [RESULT] - 56.0
+2023-04-02 12:24:16.537 [main] INFO  Calculator - [ADD] - 58.0 AND 88.0
+2023-04-02 12:24:16.537 [main] INFO  Calculator - [RESULT] - 146.0
+2023-04-02 12:24:16.538 [main] INFO  Calculator - [FACTORIAL] - 4
+2023-04-02 12:24:16.539 [main] INFO  Calculator - [RESULT] - 24
+2023-04-02 12:24:16.539 [main] INFO  Calculator - [FACTORIAL] - 5
+2023-04-02 12:24:16.539 [main] INFO  Calculator - [RESULT] - 120
+2023-04-02 12:24:16.540 [main] INFO  Calculator - [NATURAL LOG] - 1.0
+2023-04-02 12:24:16.540 [main] INFO  Calculator - [RESULT] - 0.0
+2023-04-02 12:24:16.540 [main] INFO  Calculator - [NATURAL LOG] - 2.4
+2023-04-02 12:24:16.541 [main] INFO  Calculator - [RESULT] - 0.8754687373538999
+2023-04-02 12:24:16.542 [main] INFO  Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-04-02 12:24:16.542 [main] INFO  Calculator - [RESULT] - 8.0
+2023-04-02 12:24:16.542 [main] INFO  Calculator - [POWER - 1.0 RAISED TO] 3.0
+2023-04-02 12:24:16.542 [main] INFO  Calculator - [RESULT] - 1.0
+2023-04-02 12:24:16.543 [main] INFO  Calculator - [SUBTRACT] - 78.0 AND 22.0
+2023-04-02 12:24:16.544 [main] INFO  Calculator - [RESULT] - 56.0
+2023-04-02 12:24:16.544 [main] INFO  Calculator - [SUBTRACT] - 234.0 AND 88.0
+2023-04-02 12:24:16.544 [main] INFO  Calculator - [RESULT] - 146.0
+2023-04-02 12:24:16.545 [main] INFO  Calculator - [DIVIDE] - 34.0 AND 2.0
+2023-04-02 12:24:16.545 [main] INFO  Calculator - [RESULT] - 17.0
+2023-04-02 12:24:16.546 [main] INFO  Calculator - [DIVIDE] - 128.0 AND 8.0
+2023-04-02 12:24:16.546 [main] INFO  Calculator - [RESULT] - 16.0
+2023-04-02 12:24:16.547 [main] INFO  Calculator - [MULTIPLY] - 2.0 AND 28.0
+2023-04-02 12:24:16.547 [main] INFO  Calculator - [RESULT] - 56.0
+2023-04-02 12:24:16.547 [main] INFO  Calculator - [MULTIPLY] - 32.0 AND 4.0
+2023-04-02 12:24:16.548 [main] INFO  Calculator - [RESULT] - 128.0

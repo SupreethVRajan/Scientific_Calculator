@@ -72,6 +72,23 @@ public class Calculator {
             int a = scanner.nextInt();
             System.out.println("Result: " + factorial(a));
         }
+        if(q == 6) {
+            System.out.println("Enter the first number");
+            int a = scanner.nextInt();
+            System.out.println("Result: " + squareRoot(a));
+        }
+        if(q == 7) {
+            System.out.println("Enter the first number");
+            double a = scanner.nextDouble();
+            System.out.println("Enter the second number");
+            double b = scanner.nextDouble();
+            System.out.println("Result: " + power(a, b));
+        }
+        if(q == 8) {
+            System.out.println("Enter the first number");
+            double a = scanner.nextDouble();
+            System.out.println("Result: " + naturalLog(a));
+        }
     }
 
     public double add(double a, double b) {
@@ -109,6 +126,39 @@ public class Calculator {
         }
         logger.info("[FACTORIAL] - " + n );
         int result = ans;
+        logger.info("[RESULT] - " + result);
+        return result;
+    }
+
+    public double squareRoot(double a) {
+        logger.info("[SQ ROOT] - " + a);
+        double result = Math.sqrt(a);
+        logger.info("[RESULT] - " + result);
+        return result;
+    }
+
+    public double power(double a, double b) {
+        logger.info("[POWER - " + a + " RAISED TO] " + b);
+        double result = Math.pow(a,b);
+        logger.info("[RESULT] - " + result);
+        return result;
+    }
+
+    public double naturalLog(double a) {
+        logger.info("[NATURAL LOG] - " + a);
+        double result = 0;
+        try {
+
+            if (a <0 ) {
+                result = Double.NaN;
+                throw new ArithmeticException("Case of NaN 0.0/0.0");
+            }
+            else {
+                result = Math.log(a);
+            }
+        } catch (ArithmeticException error) {
+            System.out.println("[EXCEPTION] - Cannot find log of negative numbers " + error.getLocalizedMessage());
+        }
         logger.info("[RESULT] - " + result);
         return result;
     }

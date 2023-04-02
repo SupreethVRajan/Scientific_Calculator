@@ -1,2 +1,4 @@
 [ansible_nodes]
 172.16.138.176 ansible_user=anuser
+
+
